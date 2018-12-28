@@ -1,0 +1,7 @@
+C:\Users\Djole-Ps\source\repos\Reverse\Reverse\bin\Debug\Reverse.exe.config
+C:\Users\Djole-Ps\source\repos\Reverse\Reverse\bin\Debug\Reverse.exe
+C:\Users\Djole-Ps\source\repos\Reverse\Reverse\bin\Debug\Reverse.pdb
+C:\Users\Djole-Ps\source\repos\Reverse\Reverse\obj\Debug\Reverse.csprojAssemblyReference.cache
+C:\Users\Djole-Ps\source\repos\Reverse\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Djole-Ps\source\repos\Reverse\Reverse\obj\Debug\Reverse.exe
+C:\Users\Djole-Ps\source\repos\Reverse\Reverse\obj\Debug\Reverse.pdb
